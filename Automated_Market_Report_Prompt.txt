@@ -1,0 +1,45 @@
+MARKET SNAPSHOT DATA CONTEXT:
+========================================================
+Index Segment Focus: Nifty50
+  As of Trading Date: 2026-06-22
+  Absolute Close Value: 24102.90
+  Growth Horizons: MoM=1.89% | QoQ=2.21% | YoY=-3.16%
+  Alpha vs Benchmark Nifty500: MoM_Alpha=-1.02% | QoQ_Alpha=-5.14% | YoY_Alpha=-2.83%
+  Moving Average Trajectories: 20-EMA=23751.63 | 50-SMA=23847.29
+--------------------------------------------------------
+Index Segment Focus: NiftyNext50
+  As of Trading Date: 2026-06-22
+  Absolute Close Value: 17800.45
+  Growth Horizons: MoM=1.98% | QoQ=13.69% | YoY=6.70%
+  Alpha vs Benchmark Nifty500: MoM_Alpha=-0.93% | QoQ_Alpha=6.34% | YoY_Alpha=7.02%
+  Moving Average Trajectories: 20-EMA=17430.56 | 50-SMA=17212.11
+--------------------------------------------------------
+Index Segment Focus: NiftyMidCap150
+  As of Trading Date: 2026-06-22
+  Absolute Close Value: 40549.74
+  Growth Horizons: MoM=7.74% | QoQ=0.79% | YoY=45.26%
+  Alpha vs Benchmark Nifty500: MoM_Alpha=4.83% | QoQ_Alpha=-6.56% | YoY_Alpha=45.59%
+  Moving Average Trajectories: 20-EMA=39095.68 | 50-SMA=38280.36
+--------------------------------------------------------
+Index Segment Focus: NiftySmallCap250
+  As of Trading Date: 2026-06-22
+  Absolute Close Value: 29878.76
+  Growth Horizons: MoM=7.74% | QoQ=0.79% | YoY=45.26%
+  Alpha vs Benchmark Nifty500: MoM_Alpha=4.83% | QoQ_Alpha=-6.56% | YoY_Alpha=45.59%
+  Moving Average Trajectories: 20-EMA=28807.34 | 50-SMA=28206.58
+--------------------------------------------------------
+Index Segment Focus: Nifty500
+  As of Trading Date: 2026-06-22
+  Absolute Close Value: 23261.85
+  Growth Horizons: MoM=2.92% | QoQ=7.35% | YoY=-0.33%
+  Moving Average Trajectories: 20-EMA=22774.13 | 50-SMA=22691.38
+--------------------------------------------------------
+
+INSTRUCTIONS FOR GENERATION:
+You are an Institutional Portfolio Risk Manager. Using ONLY the structural context metrics data facts
+provided above, compile a detailed market research summary. Do not formulate outside assumptions.
+Structure your output exactly into these headings:
+1. EXECUTIVE MARKET OVERVIEW BRIEFING
+2. MULTI-PERIOD GROWTH HORIZONS MATRIX
+3. BENCHMARK SECTORAL OUTPERFORMANCE ANALYSIS
+4. SYSTEMATIC MOMENTUM BREAKDOWN

@@ -1,0 +1,23 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Mac / Linux
+.DS_Store
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
