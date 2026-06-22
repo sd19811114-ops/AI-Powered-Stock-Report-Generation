@@ -1,1 +1,30 @@
 
+YAML
+name: Run Stock Report Engine
+
+on:
+  workflow_dispatch: # Allows you to trigger it manually with a button
+  schedule:
+    - cron: '0 14 * * 1-5' # Optional: Runs automatically at 2 PM UTC, Monday-Friday
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run Master Engine
+      env:
+        # Pass your secret API keys safely into GitHub's environment
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }} 
+      run: python master_engine.py
