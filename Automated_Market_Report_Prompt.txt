@@ -1,45 +1,53 @@
 MARKET SNAPSHOT DATA CONTEXT:
 ========================================================
 Index Segment Focus: Nifty50
-  As of Trading Date: 2026-06-22
-  Absolute Close Value: 24102.90
-  Growth Horizons: MoM=1.89% | QoQ=2.21% | YoY=-3.16%
-  Alpha vs Benchmark Nifty500: MoM_Alpha=-1.02% | QoQ_Alpha=-5.14% | YoY_Alpha=-2.83%
-  Moving Average Trajectories: 20-EMA=23751.63 | 50-SMA=23847.29
+  As of Trading Date: 2026-05-08
+  Absolute Close Value: 24176.15
+  Growth Horizons: MoM=4.55% | QoQ=-3.64% | YoY=-0.65%
+  Risk Matrix: Annual Volatility=13.26% | Annualized Sharpe Ratio=-0.50
+  Alpha vs Benchmark Nifty500: MoM_Alpha=-3.99% | QoQ_Alpha=-4.86% | YoY_Alpha=-5.19%
+  Moving Average Trajectories: 20-EMA=24068.02 | 50-SMA=23994.29
 --------------------------------------------------------
 Index Segment Focus: NiftyNext50
-  As of Trading Date: 2026-06-22
-  Absolute Close Value: 17800.45
-  Growth Horizons: MoM=1.98% | QoQ=13.69% | YoY=6.70%
-  Alpha vs Benchmark Nifty500: MoM_Alpha=-0.93% | QoQ_Alpha=6.34% | YoY_Alpha=7.02%
-  Moving Average Trajectories: 20-EMA=17430.56 | 50-SMA=17212.11
+  As of Trading Date: 2026-05-08
+  Absolute Close Value: 17628.20
+  Growth Horizons: MoM=13.19% | QoQ=6.52% | YoY=14.16%
+  Risk Matrix: Annual Volatility=17.22% | Annualized Sharpe Ratio=0.47
+  Alpha vs Benchmark Nifty500: MoM_Alpha=4.65% | QoQ_Alpha=5.30% | YoY_Alpha=9.62%
+  Moving Average Trajectories: 20-EMA=16914.93 | 50-SMA=16350.58
 --------------------------------------------------------
 Index Segment Focus: NiftyMidCap150
-  As of Trading Date: 2026-06-22
+  As of Trading Date: 2026-05-11
   Absolute Close Value: 40549.74
   Growth Horizons: MoM=7.74% | QoQ=0.79% | YoY=45.26%
-  Alpha vs Benchmark Nifty500: MoM_Alpha=4.83% | QoQ_Alpha=-6.56% | YoY_Alpha=45.59%
+  Risk Matrix: Annual Volatility=16.31% | Annualized Sharpe Ratio=2.41
+  Alpha vs Benchmark Nifty500: MoM_Alpha=0.00% | QoQ_Alpha=0.00% | YoY_Alpha=0.00%
   Moving Average Trajectories: 20-EMA=39095.68 | 50-SMA=38280.36
 --------------------------------------------------------
 Index Segment Focus: NiftySmallCap250
-  As of Trading Date: 2026-06-22
+  As of Trading Date: 2026-05-11
   Absolute Close Value: 29878.76
   Growth Horizons: MoM=7.74% | QoQ=0.79% | YoY=45.26%
-  Alpha vs Benchmark Nifty500: MoM_Alpha=4.83% | QoQ_Alpha=-6.56% | YoY_Alpha=45.59%
+  Risk Matrix: Annual Volatility=16.31% | Annualized Sharpe Ratio=2.41
+  Alpha vs Benchmark Nifty500: MoM_Alpha=0.00% | QoQ_Alpha=0.00% | YoY_Alpha=0.00%
   Moving Average Trajectories: 20-EMA=28807.34 | 50-SMA=28206.58
 --------------------------------------------------------
 Index Segment Focus: Nifty500
-  As of Trading Date: 2026-06-22
-  Absolute Close Value: 23261.85
-  Growth Horizons: MoM=2.92% | QoQ=7.35% | YoY=-0.33%
-  Moving Average Trajectories: 20-EMA=22774.13 | 50-SMA=22691.38
+  As of Trading Date: 2026-05-08
+  Absolute Close Value: 23115.65
+  Growth Horizons: MoM=8.54% | QoQ=1.22% | YoY=4.54%
+  Risk Matrix: Annual Volatility=14.06% | Annualized Sharpe Ratio=-0.10
+  Moving Average Trajectories: 20-EMA=22696.40 | 50-SMA=22289.31
 --------------------------------------------------------
 
 INSTRUCTIONS FOR GENERATION:
 You are an Institutional Portfolio Risk Manager. Using ONLY the structural context metrics data facts
-provided above, compile a detailed market research summary. Do not formulate outside assumptions.
-Structure your output exactly into these headings:
-1. EXECUTIVE MARKET OVERVIEW BRIEFING
-2. MULTI-PERIOD GROWTH HORIZONS MATRIX
-3. BENCHMARK SECTORAL OUTPERFORMANCE ANALYSIS
-4. SYSTEMATIC MOMENTUM BREAKDOWN
+provided above, compile a professional, academic market research summary. Do not formulate outside assumptions.
+Structure your output exactly into these markdown headings:
+# AI-GENERATED INSTITUTIONAL MARKET PERFORMANCE REPORT
+
+## 1. EXECUTIVE MARKET OVERVIEW BRIEFING
+## 2. MULTI-PERIOD GROWTH HORIZONS MATRIX
+## 3. RISK-ADJUSTED PERFORMANCE & PROFILE ANALYSIS (Discuss Volatility & Sharpe Ratios)
+## 4. BENCHMARK SECTORAL OUTPERFORMANCE ANALYSIS
+## 5. SYSTEMATIC MOMENTUM BREAKDOWN
