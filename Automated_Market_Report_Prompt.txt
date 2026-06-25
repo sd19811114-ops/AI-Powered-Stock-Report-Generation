@@ -1,23 +1,23 @@
 MARKET SNAPSHOT DATA CONTEXT:
 ========================================================
 Index Segment Focus: Nifty50
-  As of Trading Date: 2026-05-08
-  Absolute Close Value: 24176.15
-  Growth Horizons: MoM=4.55% | QoQ=-3.64% | YoY=-0.65%
-  Risk Matrix: Annual Volatility=13.26% | Annualized Sharpe Ratio=-0.50
-  Alpha vs Benchmark Nifty500: MoM_Alpha=-3.99% | QoQ_Alpha=-4.86% | YoY_Alpha=-5.19%
-  Moving Average Trajectories: 20-EMA=24068.02 | 50-SMA=23994.29
+  As of Trading Date: 2026-06-09
+  Absolute Close Value: 23242.10
+  Growth Horizons: MoM=-3.86% | QoQ=-5.06% | YoY=-6.10%
+  Risk Matrix: Annual Volatility=12.80% | Annualized Sharpe Ratio=-0.95
+  Alpha vs Benchmark Nifty500: MoM_Alpha=-0.64% | QoQ_Alpha=-4.88% | YoY_Alpha=-3.95%
+  Moving Average Trajectories: 20-EMA=23565.77 | 50-SMA=23700.08
 --------------------------------------------------------
 Index Segment Focus: NiftyNext50
-  As of Trading Date: 2026-05-08
-  Absolute Close Value: 17628.20
-  Growth Horizons: MoM=13.19% | QoQ=6.52% | YoY=14.16%
-  Risk Matrix: Annual Volatility=17.22% | Annualized Sharpe Ratio=0.47
-  Alpha vs Benchmark Nifty500: MoM_Alpha=4.65% | QoQ_Alpha=5.30% | YoY_Alpha=9.62%
-  Moving Average Trajectories: 20-EMA=16914.93 | 50-SMA=16350.58
+  As of Trading Date: 2026-06-09
+  Absolute Close Value: 17248.10
+  Growth Horizons: MoM=-2.16% | QoQ=6.48% | YoY=7.52%
+  Risk Matrix: Annual Volatility=16.56% | Annualized Sharpe Ratio=0.09
+  Alpha vs Benchmark Nifty500: MoM_Alpha=1.07% | QoQ_Alpha=6.65% | YoY_Alpha=9.67%
+  Moving Average Trajectories: 20-EMA=17278.31 | 50-SMA=16856.55
 --------------------------------------------------------
 Index Segment Focus: NiftyMidCap150
-  As of Trading Date: 2026-05-11
+  As of Trading Date: 2026-06-10
   Absolute Close Value: 40549.74
   Growth Horizons: MoM=7.74% | QoQ=0.79% | YoY=45.26%
   Risk Matrix: Annual Volatility=16.31% | Annualized Sharpe Ratio=2.41
@@ -25,7 +25,7 @@ Index Segment Focus: NiftyMidCap150
   Moving Average Trajectories: 20-EMA=39095.68 | 50-SMA=38280.36
 --------------------------------------------------------
 Index Segment Focus: NiftySmallCap250
-  As of Trading Date: 2026-05-11
+  As of Trading Date: 2026-06-10
   Absolute Close Value: 29878.76
   Growth Horizons: MoM=7.74% | QoQ=0.79% | YoY=45.26%
   Risk Matrix: Annual Volatility=16.31% | Annualized Sharpe Ratio=2.41
@@ -33,11 +33,11 @@ Index Segment Focus: NiftySmallCap250
   Moving Average Trajectories: 20-EMA=28807.34 | 50-SMA=28206.58
 --------------------------------------------------------
 Index Segment Focus: Nifty500
-  As of Trading Date: 2026-05-08
-  Absolute Close Value: 23115.65
-  Growth Horizons: MoM=8.54% | QoQ=1.22% | YoY=4.54%
-  Risk Matrix: Annual Volatility=14.06% | Annualized Sharpe Ratio=-0.10
-  Moving Average Trajectories: 20-EMA=22696.40 | 50-SMA=22289.31
+  As of Trading Date: 2026-06-09
+  Absolute Close Value: 22370.15
+  Growth Horizons: MoM=-3.23% | QoQ=-0.18% | YoY=-2.15%
+  Risk Matrix: Annual Volatility=13.71% | Annualized Sharpe Ratio=-0.59
+  Moving Average Trajectories: 20-EMA=22544.42 | 50-SMA=22392.09
 --------------------------------------------------------
 
 INSTRUCTIONS FOR GENERATION:
